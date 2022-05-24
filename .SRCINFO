@@ -1,0 +1,11 @@
+pkgbase = akebi
+	pkgdesc = Simple Bash Script to Show System Information
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://github.com/herobuxx/akebi
+	arch = any
+	license = MIT
+	source = akebi::https://raw.githubusercontent.com/herobuxx/akebi/main/akebi
+	sha256sums = SKIP
+	
+pkgname = akebi
