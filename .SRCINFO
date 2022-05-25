@@ -1,6 +1,6 @@
 pkgbase = akebi
 	pkgdesc = Simple Bash Script to Show System Information
-	pkgver = 1.0
+	pkgver = 1.1
 	pkgrel = 1
 	url = https://github.com/herobuxx/akebi
 	arch = any
